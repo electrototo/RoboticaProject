@@ -1,2 +1,0 @@
-<h1>Arduino files</h1>
-<p>Right now it can only send information via serial to the raspberry. In the future I will upload a better arduino code that can do more than send information.</p>
