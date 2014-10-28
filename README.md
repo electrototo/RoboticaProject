@@ -1,6 +1,3 @@
-RoboticaProject
-===============
-
 <h1>Robotic Claw</h1>
 <p>First of all, this is my first time using git, so maybe the progress will be a little slow, but I'm looking forward on how to use git.</p>
 <p>These are the files that I used in my school project, I used an arduino to control the claw, and send information to the raspberry pi.</p>
